@@ -16,7 +16,7 @@ if has("gui_running")
   set undofile
   autocmd VimResized * wincmd = "Automatically resize splits when resizing MacVim window
   set lines=40
-  set columns=150
+  set columns=160
 else
   colorscheme desert
 endif
@@ -30,5 +30,6 @@ endif
 if has("gui_macvim")
   set transparency=0
   colorscheme railscasts
+  set guifont=Monaco:h14
   macmenu &File.New\ Tab key=<D-S-t>
 endif
