@@ -16,7 +16,7 @@ set showmatch
 set smarttab
 set showmatch " show matching brackets
 set cursorline
-set visualbell
+set novisualbell
 set smartindent
 set autochdir
 
