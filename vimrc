@@ -17,8 +17,6 @@ if has("gui_running")
   autocmd VimResized * wincmd = "Automatically resize splits when resizing MacVim window
   set lines=40
   set columns=160
-else
-  colorscheme desert
 endif
 
 " Set gVim
