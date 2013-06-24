@@ -25,6 +25,7 @@ Bundle 'rosstimson/scala-vim-support.git'
 Bundle 'cakebaker/scss-syntax.vim.git'
 Bundle 'timcharper/textile.vim.git'
 Bundle 'slim-template/vim-slim.git'
+Bundle 'digitaltoad/vim-jade.git'
 
 "Colors
 Bundle "chriskempson/vim-tomorrow-theme.git"
