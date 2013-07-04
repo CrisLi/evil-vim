@@ -54,4 +54,5 @@ Bundle 'mileszs/ack.vim.git'
 Bundle 'tpope/vim-fugitive.git'
 Bundle 'vim-scripts/Align.git'
 Bundle 'Townk/vim-autoclose.git'
-Bundle 'mattn/zencoding-vim.git'
+Bundle 'tristen/vim-sparkup'
+
